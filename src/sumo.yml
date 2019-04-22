@@ -1,0 +1,31 @@
+title: '&eSumo'
+countdown: 60
+betweenFightsCountdown: 5
+preFightCooldown: 3
+spectatorSpawn:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+  world:
+arenaPos1Spawn:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+  world:
+arenaPos2Spawn:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+  world:
+maxPlayers: 50
+minPlayers: 1
+betweenFightsBroadcastMessage: '&c<Time>s until next fight!'
+startFightMessage: '&cThe fight between &7<Player1> &cand &7<Player2> has started!'
+winFightMessage: '&7<Player> &chas won the fight!'
+eventReward: 'crate givekey <Player> event 1'

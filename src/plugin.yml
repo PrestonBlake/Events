@@ -1,0 +1,9 @@
+name: Events
+version: 1.0
+main: me.skulldev.Main
+author: SkullDev
+description: Custom Events
+
+commands:
+  event:
+    description: 'Start events'
